@@ -1,0 +1,9 @@
+spring: 
+    profiles: 
+        active: hello-world 
+
+logging: 
+    levels: 
+        org: ERROR 
+server:
+  port: 8084
